@@ -16,10 +16,10 @@
       "secondary": "fafafa",
       "tertiary": "2fcc71",
       "quaternary": "F0C909",
-      "header_background": "4267b2",
+      "header_background": "fcfcfc",
       "header_primary": "ffffff",
-      "highlight": "4267b2",
-      "danger": "f8745c",
+      "highlight": "F0C909",
+      "danger": "EB3650",
       "success": "2fcc71",
       "love": "fa6c8d"
     }
