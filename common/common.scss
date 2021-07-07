@@ -263,7 +263,7 @@ body {
 }
 
 #create-topic {
-  background: var(--tertiary, $tertiary);
+  background: -webkit-linear-gradient(45deg, #00e08e, #f0c909, #f08c28, #eb3650);
   color: var(--secondary, $secondary);
   .d-icon {
     color: currentColor;
