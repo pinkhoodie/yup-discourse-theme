@@ -467,7 +467,7 @@ body {
   display: none;
   @include fb-background();
   border-radius: 4px;
-  border: 1px solid $border-color;
+  box-shadow: #ddd9dc 0px 0px 22px;
   padding: 1em;
   margin-bottom: 0.5em;
   color: var(--primary, $primary);
