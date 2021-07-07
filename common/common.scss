@@ -265,6 +265,7 @@ body {
 #create-topic {
   background: -webkit-linear-gradient(45deg, #00e08e, #f0c909, #f08c28, #eb3650);
   color: var(--secondary, $secondary);
+  border: none;
   .d-icon {
     color: currentColor;
   }
