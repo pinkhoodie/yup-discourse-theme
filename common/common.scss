@@ -401,8 +401,7 @@ body {
 
 .d-header {
   font-size: $font-down-1;
-  border-bottom: 1px solid $header-border;
-  box-shadow: none;
+  box-shadow: #ddd9dc 0px 0px 22px;
   .d-icon {
     color: rgba(var(--primary-rgb, $primary), 0.75);
   }
@@ -983,9 +982,9 @@ body:not(.categories-list) .topic-list {
 
   .main-link {
     @include fb-background();
-    border: 1px solid $border-color;
     border-radius: 4px;
     margin-bottom: 12px;
+    box-shadow: #ddd9dc 0px 0px 22px;
 
     .byline {
       display: flex;
