@@ -5,16 +5,22 @@
   "assets": {
   },
   "color_schemes": {
-    "Fakebook": {
-      "primary": "333",
-      "secondary": "ffffff",
-      "tertiary": "4267b2",
-      "quaternary": "4267b2",
+    "Yup": {
+      "primary": "2a2a2a",
+      "primary-very-low": "f9f9f9",
+      "primary-low": "fafafa",
+      "primary-low-mid": "bfbfbf",
+      "primary-medium": "959595",
+      "primary-high": "6a6a6a",
+      "primary-very-high": "4a4a4a",
+      "secondary": "fafafa",
+      "tertiary": "2fcc71",
+      "quaternary": "F0C909",
       "header_background": "4267b2",
       "header_primary": "ffffff",
       "highlight": "4267b2",
       "danger": "f8745c",
-      "success": "42b72a",
+      "success": "2fcc71",
       "love": "fa6c8d"
     }
   },
